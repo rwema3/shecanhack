@@ -1,23 +1,4 @@
-/**
-* Template Name: HeroBiz
-* File: variables.css
-* Description: Easily customize colors, typography, and other repetitive properties used in the template main stylesheet file main.css
-* 
-* Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-* 
-* Contents:
-* 1. HeroBiz template variables 
-* 2. Override default Bootstrap variables
-* 3. Set color and background class names
-*
-* Learn more about CSS variables at https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
-*/
 
-/*--------------------------------------------------------------
-# 1. HeroBiz template variables 
---------------------------------------------------------------*/
 :root {
 
   /* Fonts */
@@ -33,13 +14,13 @@
   --color-default-rgb: 26, 31, 36;
 
   /* Defult links color */
-  --color-links: #0ea2bd;
-  --color-links-hover: #1ec3e0;
+  --color-links: #0804fc;
+  --color-links-hover: #0804fc;
 
   /* Primay colors */
-  --color-primary: #0ea2bd;
-  --color-primary-light: #1ec3e0;
-  --color-primary-dark: #0189a1;
+  --color-primary: #0804fc;
+  --color-primary-light: #0804fc;
+  --color-primary-dark: #0804fc;
 
   --color-primary-rgb: 14, 162, 189;
   --color-primary-light-rgb: 30, 195, 224;
@@ -55,7 +36,7 @@
   --color-secondary-dark-rgb: 58, 71, 83;
 
   /* General colors */
-  --color-blue: #0d6efd;
+  --color-blue: #0804fc;
   --color-blue-rgb: 13, 110, 253;
 
   --color-indigo: #6610f2;
@@ -79,10 +60,10 @@
   --color-green: #059652;
   --color-green-rgb: 5, 150, 82;
 
-  --color-teal: #20c997;
+  --color-teal: #0804fc;
   --color-teal-rgb: 32, 201, 151;
 
-  --color-cyan: #0dcaf0;
+  --color-cyan: #0804fc;
   --color-cyan-rgb: 13, 202, 240;
 
   --color-white: #ffffff;
@@ -126,7 +107,7 @@
   --bs-primary: var(--color-blue);
   --bs-secondary: var(--color-blue);
   --bs-success: #198754;
-  --bs-info: #0dcaf0;
+  --bs-info: #0804fc;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
